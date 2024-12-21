@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/مسلسل/NewsAggregationSystem/src/newsaggregationsystem/ExternalSourceAdapter.java</file>
+            <file>file:/D:/مسلسل/NewsAggregationSystem/src/newsaggregationsystem/NewsCategory.java</file>
+            <file>file:/D:/مسلسل/NewsAggregationSystem/src/newsaggregationsystem/LoginFrame.java</file>
+            <file>file:/D:/مسلسل/NewsAggregationSystem/src/newsaggregationsystem/NewsArticleFactory.java</file>
+            <file>file:/D:/مسلسل/NewsAggregationSystem/src/newsaggregationsystem/ManageNewsPanel.java</file>
+            <file>file:/D:/مسلسل/NewsAggregationSystem/src/newsaggregationsystem/ExternalNewsAPI.java</file>
+            <file>file:/D:/مسلسل/NewsAggregationSystem/src/newsaggregationsystem/NewsArticlePrototype.java</file>
+            <file>file:/D:/مسلسل/NewsAggregationSystem/src/newsaggregationsystem/UserSettingsPanel.java</file>
+            <file>file:/D:/مسلسل/NewsAggregationSystem/src/newsaggregationsystem/ViewNewsPanel.java</file>
+            <file>file:/D:/مسلسل/NewsAggregationSystem/src/newsaggregationsystem/UserSettingsManager.java</file>
+            <file>file:/D:/مسلسل/NewsAggregationSystem/src/newsaggregationsystem/NewsCategoryFactory.java</file>
+            <file>file:/D:/مسلسل/NewsAggregationSystem/src/newsaggregationsystem/NewsArticle.java</file>
+            <file>file:/D:/مسلسل/NewsAggregationSystem/src/newsaggregationsystem/NewsDataFetcher.java</file>
+            <file>file:/D:/مسلسل/NewsAggregationSystem/src/newsaggregationsystem/NewsAggregationSystem.java</file>
+            <file>file:/D:/مسلسل/NewsAggregationSystem/src/newsaggregationsystem/NewsArticleBuilder.java</file>
+        </group>
+    </open-files>
+</project-private>
